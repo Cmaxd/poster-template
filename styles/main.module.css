@@ -1,0 +1,38 @@
+.container {
+  width: 100%;
+  height: calc(100vh - 16px);
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  height: 70px;
+  align-items: center;
+  font-size: 28px;
+  font-weight: bold;
+  border-bottom: 1px solid rgb(229, 230, 235);
+}
+.main {
+  flex: 1;
+  max-height: 100%;
+  overflow: hidden;
+  padding-top: 10px;
+}
+.footer {
+  height: 40px;
+}
+.row {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.col {
+  height: 100%;
+  overflow: auto;
+}
+.link {
+  cursor: pointer;
+  color: rgb(22,93,255);
+  margin-bottom: 16px;
+}
