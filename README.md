@@ -1,8 +1,10 @@
 ## 招聘海报生成平台
 
+注意：请先开通 [veImageX](https://t.zijieimg.com/Y1gyba7/) 
+
 ### 配置
 
-打开 constants/service.ts 文件，设置以下字段
+打开 ./constants/service.ts 文件，设置以下字段
 
 ```
 // 样式所属的 ServiceId
@@ -33,4 +35,10 @@ npm install
 
 ```
 npm run dev
+```
+
+### 部署
+
+```
+npm start
 ```
