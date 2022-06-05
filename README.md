@@ -1,4 +1,4 @@
-## 招聘海报生成平台
+## 海报生成平台
 
 注意：请先开通 [veImageX](https://t.zijieimg.com/Y1gyba7/) 
 
